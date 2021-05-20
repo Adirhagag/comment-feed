@@ -1,0 +1,39 @@
+.add-comment {
+  background-color: #EFEFEF;
+  width: 100%;
+  padding: 22px;
+  padding-bottom: 25px;
+  
+  input[type="email"], textarea[name="message"] {
+    border: 1px solid #D1D1D1;
+    margin-bottom: 15px;
+    padding-left: 12px;
+  }
+  
+  input[type="email"] {
+    height: 35px;
+    width: 100%;
+  }
+  
+  textarea[name="message"] {
+    height: 65px;
+    width: 100%;
+    resize: none;
+    padding-top: 7px;
+  }
+
+  ::-webkit-input-placeholder { 
+    font-family: 'Roboto', sans-serif;
+  }
+
+  button {
+    align-self: flex-end;
+    text-transform: uppercase;
+    background-color: #47A9DD;
+    color: #ffffff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 14px;
+  }
+
+}

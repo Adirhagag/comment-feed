@@ -1,0 +1,21 @@
+.comment-preview {
+  &:not(:last-child) {
+    margin-bottom: 20px;
+  }
+  .gravatar-img {
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+    margin-inline-end: 10px;
+  }
+
+  .content-wrapper {
+    .email {
+      font-size: 1rem;
+      margin-bottom: 5px;
+    }
+    .msg {
+      color: #b7b7b7;
+    }
+  }
+}
