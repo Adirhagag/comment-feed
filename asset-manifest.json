@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/comment-feed/static/css/main.7562d04f.chunk.css",
+    "main.js": "/comment-feed/static/js/main.5f4b1d26.chunk.js",
+    "main.js.map": "/comment-feed/static/js/main.5f4b1d26.chunk.js.map",
+    "runtime-main.js": "/comment-feed/static/js/runtime-main.40318574.js",
+    "runtime-main.js.map": "/comment-feed/static/js/runtime-main.40318574.js.map",
+    "static/js/2.7015f153.chunk.js": "/comment-feed/static/js/2.7015f153.chunk.js",
+    "static/js/2.7015f153.chunk.js.map": "/comment-feed/static/js/2.7015f153.chunk.js.map",
+    "static/js/3.ec8d4b32.chunk.js": "/comment-feed/static/js/3.ec8d4b32.chunk.js",
+    "static/js/3.ec8d4b32.chunk.js.map": "/comment-feed/static/js/3.ec8d4b32.chunk.js.map",
+    "index.html": "/comment-feed/index.html",
+    "static/css/main.7562d04f.chunk.css.map": "/comment-feed/static/css/main.7562d04f.chunk.css.map",
+    "static/js/2.7015f153.chunk.js.LICENSE.txt": "/comment-feed/static/js/2.7015f153.chunk.js.LICENSE.txt",
+    "static/media/loupe.38d98259.svg": "/comment-feed/static/media/loupe.38d98259.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40318574.js",
+    "static/js/2.7015f153.chunk.js",
+    "static/css/main.7562d04f.chunk.css",
+    "static/js/main.5f4b1d26.chunk.js"
+  ]
+}
